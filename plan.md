@@ -7,6 +7,9 @@
     - Other factories (?)
 
 # Why
+- What are the current largest problems on earth that space-based production could help address?
+
+
 - Satellite production is currently very expensive
     - How expensive?
     - What are the various components of cost?
